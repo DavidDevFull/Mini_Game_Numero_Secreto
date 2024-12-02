@@ -1,1 +1,1 @@
-# Mini_Game_Numero_Secreto
+# Mini_Game_Número_Secreto
